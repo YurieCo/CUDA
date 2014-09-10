@@ -1,0 +1,10 @@
+Level	Location	Message
+Trace	main::30	There is 1 device supporting CUDA
+Trace	main::36	Device 0 name: Tesla K20c
+Trace	main::37	Computational Capabilities: 3.5
+Trace	main::38	Maximum global memory size: 5368512512
+Trace	main::39	Maximum constant memory size: 65536
+Trace	main::40	Maximum shared memory size per block: 49152
+Trace	main::43	Maximum block dimensions: 1024 x 1024 x 64
+Trace	main::46	Maximum grid dimensions: 2147483647 x 65535 x 65535
+Trace	main::47	Warp size: 32
