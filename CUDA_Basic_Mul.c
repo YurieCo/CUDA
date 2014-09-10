@@ -1,7 +1,7 @@
 #include <wb.h>
 
 //@@ make some defines for easy configuration.
-#define TILE_WIDTH 32
+#define TILE_WIDTH 16
 #define Grid_Size(x) ((x) - 1) / TILE_WIDTH + 1
 #define wbCheck(stmt)                                                          \
   do {                                                                         \
